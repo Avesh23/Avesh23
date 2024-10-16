@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHAH MOHD AAVESH</h1>
-<h3 align="center">A passionate DATA ANALYST from India</h3>
+<h3 align="center">A passionate DATA ANALYST/DATA SCIENTIST from India</h3>
 <h6> About me: I am a data analyst who is passionate about finding insights from data and solving real-world problems. I have a bachelor’s degree and I am proficient in Python, SQL, Excel. * Projects: I have worked on some projects. You can find the code and the results on my GitHub repositories. * Skills: I have experience in using various data analysis tools and techniques, such as pandas, matplotlib , seaborn, data visualization, and data cleaning. * Goals: I am a fresher who is eager to learn from others and improve my skills. I am looking for opportunities to collaborate with other data enthusiasts and work on challenging and meaningful projects.</h6>
 <img align="right" alt="data analyst" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avesh23&label=Profile%20views&color=0e75b6&style=flat" alt="avesh23" /> </p>
